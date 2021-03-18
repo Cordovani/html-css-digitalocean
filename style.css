@@ -10,6 +10,10 @@
     color: white;
 }
 
+.blue-word {
+    color: rgb(3, 107, 255);
+}
+
 .gray {
     background-color: rgb(243, 245, 249);
     height: 200px;
@@ -34,5 +38,14 @@
     background-color: white;
     border-radius: 3px;
     color: black;
+    text-align: center;
+}
+
+/* .navbar-brand {
+    width: 100px;
+    height: auto;
+} */
+
+.centered {
     text-align: center;
 }
