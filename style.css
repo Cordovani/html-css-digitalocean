@@ -39,6 +39,7 @@
     border-radius: 3px;
     color: black;
     text-align: center;
+    padding:5px
 }
 
 /* .navbar-brand {
@@ -48,4 +49,23 @@
 
 .centered {
     text-align: center;
+}
+
+#logo {
+    width: 250px;
+    height: auto;
+}
+
+ul{
+    list-style:none
+}
+
+.trusted{
+    display: inline-block;
+    vertical-align: middle;
+    margin: auto;
+}
+
+nav{
+    color: rgb(31, 53, 97);
 }
