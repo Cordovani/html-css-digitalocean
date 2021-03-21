@@ -1,8 +1,7 @@
 .container{
     margin: auto;
+    /* bg-color class */
 }
-
-/* bg-color class */
 
 .blue-gradient {
     background-color: rgb(0, 60, 185);
@@ -60,12 +59,45 @@ ul{
     list-style:none
 }
 
-.trusted{
+h2 {
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+/* .trusted{
     display: inline-block;
     vertical-align: middle;
     margin: auto;
-}
+} */
 
 nav{
     color: rgb(31, 53, 97);
+}
+
+.navbar-nav > li {
+    color: rgb(39, 59, 100);
+}
+
+#right-nav {
+    float: right;
+}
+
+.row {
+    margin: 15px;
+}
+
+/* .list-group {
+} */
+
+#left-border-list {
+    border-left: solid lightgray;
+    
+}
+
+#left-border-list > li {
+	margin-left: -25px;
+	margin-bottom: 15px;
 }
