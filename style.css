@@ -77,6 +77,10 @@ nav{
     color: rgb(31, 53, 97);
 }
 
+section {
+    padding-top: 10px;
+}
+
 .navbar-nav > li {
     color: rgb(39, 59, 100);
 }
@@ -86,7 +90,7 @@ nav{
 }
 
 .row {
-    margin: 15px;
+    margin-top: 25px;
 }
 
 /* .list-group {
@@ -94,10 +98,12 @@ nav{
 
 #left-border-list {
     border-left: solid lightgray;
+    margin-top: 25px;
     
 }
 
 #left-border-list > li {
 	margin-left: -25px;
-	margin-bottom: 15px;
+	margin-bottom: 20px;
+    
 }
