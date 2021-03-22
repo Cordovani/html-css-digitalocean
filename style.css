@@ -98,6 +98,15 @@ nav{
     height: auto;
 }
 
+#myNav .navbar-brand {
+	width: 25%;
+}
+
+.navbar-btn {
+    color: rgb(38, 128, 255);
+    border-color:  rgb(38, 128, 255);
+}
+
 section {
     padding-top: 10px;
 }
